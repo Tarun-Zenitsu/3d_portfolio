@@ -142,7 +142,7 @@ import {
       company_name: "Panchayat Juniour College,Bargarh",
       icon: college,
       iconBg: "#E6DEDD",
-      date: "2015 - 2016",
+      date: "2014 - 2016",
       points: [
         "Successfully finished my intermediate education at the respected government institution, Panchayat College, Bargarh.",
         "Chose the science stream, specializing in Physics, Chemistry, Mathematics, and Biology, to gain a comprehensive understanding of scientific and mathematical concepts.",
