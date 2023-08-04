@@ -153,7 +153,7 @@ import {
       company_name: "Bhubaneswar College of Engineering",
       icon: degree,
       iconBg: "#383E56",
-      date: "2017 - 2020",
+      date: "2017 - 2021",
       points: [
         "Successfully earned my Bachelor of Technology degree from Bhubaneswar College of Engineering.",
         "Pursued a specialization in Electronics and Communication Engineering during my studies.",
